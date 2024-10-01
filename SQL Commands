@@ -1,0 +1,7 @@
+CREATE TABLE EMPLOYEE(
+	EmployeeID Varchar(10) PRIMARY KEY,
+    Name Varchar(20),
+    Age INT,
+    Department Varchar(20),
+    Salary Decimal(10, 2)
+);
